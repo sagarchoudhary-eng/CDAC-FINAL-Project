@@ -1,1 +1,3 @@
 # CDAC-FINAL-Project
+Online Refurbished Book Store (ORBS) is a web application, intended to provide complete solutions for customers through a single gateway using the Internet as the sole medium. It will enable customers to browse through the shop (Books, Notes, Gadgets, etc) and purchase them online without having to visit the shop physically. The administration module will enable a system administrator to maintain various lists of books category.
+This document is meant to discuss the features of ORBS, so as to serve as a guide to the developers on one hand and a software validation document for the prospective client on the other.
